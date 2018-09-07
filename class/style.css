@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+
+
+table{
+    width: 80%;
+    margin: auto;
+    font-size: 1.5em;
+    
+}
+
+tr:nth-child(odd){
+    background-color: burlywood;
+}
+tr:nth-child(even){
+    background-color:aqua;
+}
