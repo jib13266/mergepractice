@@ -1,0 +1,64 @@
+
+
+body{
+    background-image: url(images/grass_blue_sky_background.jpg);
+    background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-origin:content-box;
+  background-size: 100% 100%; }
+
+
+div{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color:yellow;
+    border: 2px solid lightyellow;
+    box-shadow: 10px 10px 50px lightyellow;
+    transition: 2s;
+}
+div:hover{
+    width: 200px;
+    height: 200px;
+}
+
+#cow{
+    position:absolute ;
+    top:500px;
+    left:100px;
+        width: 600px;
+      height: 400px;
+        
+    }
+
+#ft3{
+    position:absolute ;
+    top:750px;
+    left:110px;
+        width: 600px;
+      height: 300px;
+        
+    }
+
+#look{
+    position:absolute ;
+    top:400px;
+    left:1300px;
+        width: 400px;
+      height: 500px;
+        
+    }
+#wind{
+    position:absolute ;
+    top:150px;
+    left:1250px;
+        width: 500px;
+      height: 500px;
+        
+    }
+
+
+
+
+
+       
